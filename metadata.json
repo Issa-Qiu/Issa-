@@ -1,0 +1,7 @@
+{
+  "name": "Merry Christmas - Opulent 3D Experience",
+  "description": "A high-fidelity, cinematic 3D interactive Christmas tree experience featuring particle metamorphosis, luxurious color palettes, and post-processing effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
